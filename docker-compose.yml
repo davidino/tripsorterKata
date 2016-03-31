@@ -1,0 +1,4 @@
+kata:
+  build: .
+  volumes:
+    - .:/usr/src

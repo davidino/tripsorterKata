@@ -1,0 +1,4 @@
+formatter.name: pretty
+suites:
+  trip_suite:
+    namespace: Davidino\TripSort

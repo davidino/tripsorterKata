@@ -1,0 +1,16 @@
+{
+    "name": "tripSort kata",
+    "description": "test",
+    "require-dev": {
+      "phpspec/phpspec": "~2.5"
+    },
+    "autoload": {
+      "psr-0": { "Davidino\\TripSort": "src" }
+    },
+    "authors": [
+        {
+          "name": "David Funaro",
+          "email": "ing.davidino@gmail.com"
+        }
+    ]
+}
